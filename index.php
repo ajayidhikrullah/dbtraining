@@ -103,36 +103,6 @@
 
     </section><!-- End Cliens Section -->
 
-    <!-- ======= About Us Section ======= -->
-    <section id="about" class="about">
-      <div class="container" data-aos="fade-up">
-
-        <div class="section-title">
-          <h2>About Us</h2>
-        </div>
-
-        <div class="row content">
-          <div class="col-lg-6">
-            <p>
-              At Dabar Training limited , we are a team that specializes in  necessary facilities to make our clients feel comfortable, rest assured and very secured with their business and properties.
-            </p>
-            <ul>
-              <li><i class="ri-check-double-line"></i> Fully Trained Cyber Security Experts with Verified Vertifications</li>
-              <li><i class="ri-check-double-line"></i> Reliable and Self Confidence</li>
-              <li><i class="ri-check-double-line"></i>Licensed cybersecurity personnel</li>
-            </ul>
-          </div>
-          <div class="col-lg-6 pt-4 pt-lg-0">
-            <p>
-              Professional IT training Services, we are based in Peckham, London. Our goal is to bring the latest technology available to your doorstep and in achieving your organizational goals and objectives.
-            </p>
-            <a href="mailto:info@dabartrainingltd.com" class="btn-learn-more">Talk to us</a>
-          </div>
-        </div>
-
-      </div>
-    </section><!-- End About Us Section -->
-
     <!-- ======= Why Us Section ======= -->
 
     <!-- ======= Skills Section ======= -->
@@ -178,6 +148,39 @@
       </div>
     </section><!-- End Services Section -->
 
+
+    
+    <!-- ======= About Us Section ======= -->
+    <section id="about" class="about">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>About Us</h2>
+        </div>
+
+        <div class="row content">
+          <div class="col-lg-6">
+            <p>
+              At Dabar Training limited , we are a team that specializes in  necessary facilities to make our clients feel comfortable, rest assured and very secured with their business and properties.
+            </p>
+            <ul>
+              <li><i class="ri-check-double-line"></i> Fully Trained Cyber Security Experts with Verified Vertifications</li>
+              <li><i class="ri-check-double-line"></i> Reliable and Self Confidence</li>
+              <li><i class="ri-check-double-line"></i>Licensed cybersecurity personnel</li>
+            </ul>
+          </div>
+          <div class="col-lg-6 pt-4 pt-lg-0">
+            <p>
+              Professional IT training Services, we are based in Peckham, London. Our goal is to bring the latest technology available to your doorstep and in achieving your organizational goals and objectives.
+            </p>
+            <a href="mailto:info@dabartrainingltd.com" class="btn-learn-more">Talk to us</a>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Us Section -->
+
+
     <!-- ======= Cta Section ======= -->
     <section id="cta" class="cta">
       <div class="container" data-aos="zoom-in">
@@ -185,7 +188,7 @@
         <div class="row">
           <div class="col-lg-9 text-center text-lg-start">
             <h3>Hands on Experience Training</h3>
-            <p> At Dabar Training limited, we are always ready ti positively impact and give necessary advice where needed.</p>
+            <p> At Dabar Training limited, we are always ready to positively impact and give necessary advice where needed.</p>
           </div>
    
           <div class="col-lg-3 cta-btn-container text-center">
@@ -334,7 +337,7 @@
                 <div class="error-message"></div>
                 <div class="sent-message">Your message has been sent. Thank you!</div>
               </div>
-              <div class="text-center"><button type="submit" name = "submit">Send Message</button></div>
+              <div class="text-center"><buttontype="submit" name = "submit">Send Message</button></div>
             </form>
           </div>
 
