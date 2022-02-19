@@ -1,11 +1,8 @@
 <?php
   include "header.php";
 ?>
-
-
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex align-items-center">
-
     <div class="container">
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
@@ -71,9 +68,6 @@
               <h4><a href="">Cyber Security Training</a></h4>
             </div>
           </div>
-
-         
-
         </div>
 
       </div>
@@ -136,7 +130,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Team</h2>
+          <h2>Meet the Team</h2>
           <p><!-- etc --></p>
         </div>
 
@@ -146,14 +140,14 @@
             <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
               <div class="pic"><img src="https://res.cloudinary.com/www-nairaproducts-ng/image/upload/v1610463126/img_s6iaru.png" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Olu L</h4>
+                <h4>Olu Lawal</h4>
                 <span>Chief Executive Officer</span>
                 <!-- <p></p> -->
                 <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
                   <a href=""><i class="ri-facebook-fill"></i></a>
                   <a href=""><i class="ri-instagram-fill"></i></a>
-                  <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                  <a href=""><i class="ri-linkedin-box-fill"></i> </a>
                 </div>
               </div>
             </div>
@@ -263,8 +257,8 @@
                   <input type="text" class="form-control" name="subject" id="subject" required>
                 </div>
                 <div class="form-group col-md-6">
-                    <label for="name">Phone Number</label>
-                    <input type="number" name="phoneNumber" class="form-control" id="phone" required>
+                    <label for="name">Phone Number <span>(optional)</span> </label>
+                    <input type="number" name="phoneNumber" class="form-control" id="phone">
                 </div>
               </div>
               <div class="form-group">
