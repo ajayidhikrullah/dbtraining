@@ -69,7 +69,6 @@
             </div>
           </div>
         </div>
-
       </div>
     </section><!-- End Services Section -->
 
@@ -89,14 +88,14 @@
               At Dabar Training limited , we are a team that specializes in  necessary facilities to make our clients feel comfortable, rest assured and very secured with their business and properties.
             </p>
             <ul>
-              <li><i class="ri-check-double-line"></i> Fully Trained Cyber Security Experts with Verified Vertifications</li>
-              <li><i class="ri-check-double-line"></i> Reliable and Self Confidence</li>
-              <li><i class="ri-check-double-line"></i>Licensed cybersecurity personnel</li>
+              <li><i class="ri-check-double-line"></i>Certified SuccessFactors Specialist</li>
+              <li><i class="ri-check-double-line"></i>Certified SYS Specialist CISSP</li>
+              <li><i class="ri-check-double-line"></i>Seasoned SOC Experts</li>
             </ul>
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
             <p>
-              Professional IT training Services, we are based in Peckham, London. Our goal is to bring the latest technology available to your doorstep and in achieving your organizational goals and objectives.
+              Professional IT training Services, located in London, United Kingdom. Our goal is to bring the latest technology available to your doorstep and in achieving your organizational goals and objectives through impacting, engaging, transforming the Human Resources of an Organization. Additionally, ensuring to listen and taking what people are saying and helping them do better in their field.
             </p>
             <a href="mailto:info@dabartraining.com" class="btn-learn-more">Talk to us</a>
           </div>
@@ -135,7 +134,6 @@
         </div>
 
         <div class="row">
-
           <div class="col-lg-6">
             <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
               <div class="pic"><img src="https://res.cloudinary.com/www-nairaproducts-ng/image/upload/v1610463126/img_s6iaru.png" class="img-fluid" alt=""></div>

@@ -9,9 +9,9 @@
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
           <h1>SuccessFactor Module</h1>
-          <h2>We are an expert in providing and rendering Successfactor, Information security and CyberSecurity training to individuals, professionals and corporate bodies.</h2>
+          <!-- <h2>SuccessFactors Module.</h2> -->
           <div class="d-flex justify-content-center justify-content-lg-start">
-            <a href="#about" class="btn-get-started scrollto">Read more on SAP Modules...</a>
+            <a href="#about" class="btn-get-started scrollto">SAP Modules...</a>
             <!-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a> -->
           </div>
         </div>
@@ -43,7 +43,6 @@
                     <p><em>* Employee Central Integration</em></p>
                     <p><em>* Employee Central Payroll</em></p>
                     <hr>
-                    <p>The following is a list of the supported countries in Employee Central Payroll: Argentina, Australia, Austria, Brazil, Canada, Chile, China, Colombia, Finland, France, Germany, Hong Kong, India, Ireland, Italy, Japan, Malaysia, Mexico, Netherlands, New Zealand, Qatar, Russia, Saudi Arabia, Singapore, South Africa, South Korea, Spain, Sweden, Switzerland, Taiwan, Thailand, United Arab Emirates, United Kingdom, United States, and Venezuela.</p>
               </div>
             </div>
           </div>
@@ -54,8 +53,7 @@
               <div class="member-info">
                 <h4>SAP SuccessFactor Performance and Goals</h4>
                 <span>Discussion</span>
-                <p>SAP Performance and Goal management helps people managers to align individual goals with the company business objectives and core values. It ensures that all the employees are working on same similar goals to achieve and eliminate gap and stay on the right path to achieve organization goals.
-                If a customer purchases Goal and Performance management together, then all the goals in Goal management are automatically populated in Performance management. Performance management helps managers to measure metrics as per employee performance to meet objectives as per company targets and objectives.</p>
+                <p>SAP Performance and Goal management helps people managers to align individual goals with the company business objectives and core values. It ensures that all the employees are working on same similar goals to achieve and eliminate gap and stay on the right path to achieve organization goals.<../p>
                 
                 <!-- <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>

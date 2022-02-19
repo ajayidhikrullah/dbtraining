@@ -12,7 +12,7 @@
               <br>
               United Kingdom.<br><br>
               <strong>Phone:</strong> +44 7830 374479<br>
-              <strong>Email:</strong>info@dabartrainingltd.com<br>
+              <strong>Email:</strong>info@dabartraining.com<br>
             </p>
           </div>
 
