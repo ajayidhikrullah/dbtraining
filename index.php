@@ -59,6 +59,7 @@
           <div class="col-xl-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
+              <p>COMING SOON...</p>
               <h4><a href="">Information Security Training</a></h4>
             </div>
           </div>
@@ -66,6 +67,7 @@
           <div class="col-xl-4 col-md-6 d-flex align-items-stretch mt-4 mt-xl-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
+              <p>COMING SOON...</p>
               <h4><a href="">Cyber Security Training</a></h4>
             </div>
           </div>
@@ -128,7 +130,7 @@
       </div>
     </section><!-- End Cta Section -->
 
-    
+
     <!-- ======= Team Section ======= -->
     <section id="team" class="team section-bg">
       <div class="container" data-aos="fade-up">
@@ -230,7 +232,7 @@
               <div class="email">
                 <i class="bi bi-envelope"></i>
                 <h4>Email:</h4>
-                <p>info@dabartrainingltd.com</p>
+                <p>info@dabartraining.com</p>
               </div>
 
               <div class="phone">
@@ -247,17 +249,23 @@
             <form action="contact_form/includes/contactus.inc.php" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="form-group col-md-6">
-                  <label for="name">Your Name</label>
+                  <label for="name">Name</label>
                   <input type="text" name="fullName" class="form-control" id="name" required>
                 </div>
                 <div class="form-group col-md-6">
-                  <label for="name">Your Email</label>
+                  <label for="name">Email</label>
                   <input type="email" class="form-control" name="email" id="email" required>
                 </div>
               </div>
-              <div class="form-group">
-                <label for="name">Subject</label>
-                <input type="text" class="form-control" name="subject" id="subject" required>
+              <div class="row">
+                <div class="form-group col-md-6">
+                  <label for="name">Subject</label>
+                  <input type="text" class="form-control" name="subject" id="subject" required>
+                </div>
+                <div class="form-group col-md-6">
+                    <label for="name">Phone Number</label>
+                    <input type="number" name="phoneNumber" class="form-control" id="phone" required>
+                </div>
               </div>
               <div class="form-group">
                 <label for="name">Message</label>
@@ -268,7 +276,7 @@
                 <div class="error-message"></div>
                 <div class="sent-message">Your message has been sent. Thank you!</div>
               </div>
-              <div class="text-center"><buttontype="submit" name = "submit">Send Message</button></div>
+              <div class="text-center"><button type="submit" name = "submit">Send Message</button></div>
             </form>
           </div>
 
