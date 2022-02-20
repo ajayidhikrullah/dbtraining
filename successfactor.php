@@ -53,7 +53,7 @@
               <div class="member-info">
                 <h4>SAP SuccessFactor Performance and Goals</h4>
                 <span>Discussion</span>
-                <p>SAP Performance and Goal management helps people managers to align individual goals with the company business objectives and core values. It ensures that all the employees are working on same similar goals to achieve and eliminate gap and stay on the right path to achieve organization goals.<../p>
+                <p>SAP Performance and Goal management helps people managers to align individual goals with the company business objectives and core values. It ensures that all the employees are working on same similar goals to achieve and eliminate gap and stay on the right path to achieve organization goals.</p>
                 
                 <!-- <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
@@ -69,16 +69,9 @@
             <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="300">
               <div class="pic"><img src="https://res.cloudinary.com/www-nairaproducts-ng/image/upload/v1610463126/img_s6iaru.png" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>SAP SuccessFactor Onboarding</h4>
+                <h4>SAP SuccessFactors Learning - LMS</h4>
                 <span>Discussion</span>
-                <p>Using SuccessFactors onboarding, you can engage new hires from the start. It is important to provide enhanced onboarding experience to the new hires to engage top talents from university.
-                    SuccessFactors Onboarding provides an exceptional, enhanced set of onboarding activities in an organization to manage new hires from the start.
-                    <p>Key Features of SuccessFactors Onboarding</p>
-                    <p>The key features of SuccessFactors Onboarding are as follows
-                    Hiring coordinator can initiate onboarding for hires recruited through SuccessFactors recruitment.
-                    Hiring process involves kickoff onboarding process in SuccessFactors for all hires and complete new hire steps.
-                    Onboarding involves follow up with hire to make sure that he has completed new hire steps and has taken advantage of the new hire portal.
-                    Onboarding can be integrated with recruitment and Employee central to manage new hire activities.</p>
+                <p>Using SuccessFactors Learning, you can engage new hires from the start. It is important to provide enhanced learning and valuable content experience to the new and old hires to engage top talents from university.</p>
 
                 <!-- <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
@@ -86,7 +79,10 @@
                   <a href=""><i class="ri-instagram-fill"></i></a>
                   <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
                 </div> -->
+                <a href="learning.php" class="btn-learn-more">Read more...</a>
+
               </div>
+
             </div>
           </div>
         </div>

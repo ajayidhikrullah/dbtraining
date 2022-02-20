@@ -14,7 +14,7 @@
           </div>
         </div>
         <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="200">
-          <img src="assets/img/sap.jpg" class="img img-fluid animated img-rounded" alt="">
+          <img src="assets/img/why-us.png" class="img img-fluid animated img-rounded" alt="">
         </div>
       </div>
     </div>
@@ -49,7 +49,7 @@
           <div class="col-xl-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4><a href="">SAP HCM SuccessFactor</a></h4>
+              <h4><a href="successfactor.php">SAP HCM SuccessFactor</a></h4>
             </div>
           </div>
 
