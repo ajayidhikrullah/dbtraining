@@ -78,7 +78,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #e44747;
+  background: navy;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -90,7 +90,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 0;
 }
 .back-to-top:hover {
-  background: #e9a86b;
+  background: navy;
   color: #fff;
 }
 .back-to-top.active {
@@ -1248,7 +1248,8 @@ section {
   padding: 0 0 10px 60px;
   margin-bottom: 20px;
   font-size: 14px;
-  color: #ba8c61;
+  /* color: #ba8c61; */
+  color: e4a547
 }
 .contact .info .email p {
   padding-top: 5px;
@@ -1355,7 +1356,7 @@ section {
   padding: 10px 12px;
 }
 .contact .php-email-form button[type=submit] {
-  background: #e49347;
+  background: navy;
   border: 0;
   padding: 12px 34px;
   color: #fff;
@@ -1387,7 +1388,7 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 15px 0;
-  background: #faf6f3;
+  background: #f3f3fa;
   min-height: 40px;
   margin-top: 72px;
 }

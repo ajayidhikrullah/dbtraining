@@ -218,7 +218,7 @@
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
                 <h4>Location:</h4>
-                <p>Peckham, London, United Kingdom</p>
+                <p>South-East London, United Kingdom</p>
               </div>
 
               <div class="email">
