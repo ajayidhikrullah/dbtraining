@@ -95,7 +95,7 @@
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0">
             <p>
-              Professional IT training Services, located in London, United Kingdom. Our goal is to bring the latest technology available to your doorstep and in achieving your organizational goals and objectives through impacting, engaging, transforming the Human Resources of an Organization. Additionally, ensuring to listen and taking what people are saying and helping them do better in their field.
+              Professional IT training Services, located in South-East London, United Kingdom. Our goal is to bring the latest technology available to your doorstep and in achieving your organizational goals and objectives through impacting, engaging, transforming the Human Resources of an Organization. Additionally, ensuring to listen and taking what people are saying and helping them do better in their field.
             </p>
             <a href="mailto:info@dabartraining.com" class="btn-learn-more">Talk to us</a>
           </div>

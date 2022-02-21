@@ -10,7 +10,7 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/fav.png" rel="icon">
+  <link href="assets/img/dabar_logo.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -40,7 +40,7 @@
 
       <h1 class="logo me-auto"><a href="index.php" >Dabar Training LTD.</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      <a href="index.html" class="logo me-auto"><img src="assets/img/dabar_logo.png" alt="" class="img-fluid"></a>
       
       
       <?php

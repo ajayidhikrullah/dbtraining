@@ -43,6 +43,7 @@
                     <p><em>* Employee Central Integration</em></p>
                     <p><em>* Employee Central Payroll</em></p>
                     <hr>
+                    <a href="employeecentral.php" class="btn-learn-more">Read more...</a>
               </div>
             </div>
           </div>
@@ -51,10 +52,11 @@
             <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="200">
               <div class="pic"><img src="https://res.cloudinary.com/www-nairaproducts-ng/image/upload/v1610463126/img_s6iaru.png" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>SAP SuccessFactor Performance and Goals</h4>
+                <h4>SAP SuccessFactors Onboarding</h4>
                 <span>Discussion</span>
-                <p>SAP Performance and Goal management helps people managers to align individual goals with the company business objectives and core values. It ensures that all the employees are working on same similar goals to achieve and eliminate gap and stay on the right path to achieve organization goals.</p>
-                
+                <p>SAP SuccessFactors Onboarding helps people managers to align individual goals with the company business objectives and core values. It ensures that all the employees are working on same similar goals to achieve and eliminate gap and stay on the right path to achieve organization goals.</p>
+                <hr>
+                <a href="onboarding.php" class="btn-learn-more">Read more...</a>              
                 <!-- <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
                   <a href=""><i class="ri-facebook-fill"></i></a>
@@ -79,6 +81,7 @@
                   <a href=""><i class="ri-instagram-fill"></i></a>
                   <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
                 </div> -->
+                <hr>
                 <a href="learning.php" class="btn-learn-more">Read more...</a>
 
               </div>
