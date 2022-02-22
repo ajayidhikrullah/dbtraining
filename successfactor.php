@@ -154,25 +154,26 @@
             </div>
           </div>
 
-          <div class="col-lg-6 mt-4 mt-lg-0">
+          <!-- <div class="col-lg-6 mt-4 mt-lg-0">
             <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
               <div class="pic"><img src="https://res.cloudinary.com/www-nairaproducts-ng/image/upload/v1610463126/img_s6iaru.png" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>SAP SuccessFactors Performance and Goals</h4>
+                <h4>SAP SuccessFactors Employee Central Payroll</h4>
                 <span>Discussion</span>
-                <p>Research shows that organizations who embrace performance & goals management improve their business results. Dabar trainers wants to take this a step further from the traditional view and enable your company to be forward looking, flexible and proactive in your business execution.</p>
+                <p>SAP SuccessFactors Employee Central Payroll software can help you automate and accelerate processing, reduce risk, and simplify payroll management.
+                Manage core HR, payroll, talent management, and analytics in an integrated payroll management system.     </p>
                 <hr>
-                <a href="performance.php" class="btn-learn-more">Read more...</a>              
+                <a href="payroll.php" class="btn-learn-more">Read more...</a>               -->
                 <!-- <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
                   <a href=""><i class="ri-facebook-fill"></i></a>
                   <a href=""><i class="ri-instagram-fill"></i></a>
                   <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
                 </div> -->
-              </div>
+              <!-- </div>
             </div>
           </div>
-        </div>
+        </div> -->
 
 
 

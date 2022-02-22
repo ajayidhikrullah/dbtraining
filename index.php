@@ -113,13 +113,15 @@
           <div class="col-lg-9 text-center text-lg-start">
             <h3>Hands on Experience Training</h3>
             <p> At Dabar Training limited, we are always ready to positively impact and give necessary advice where needed.</p>
+
+            <h2>Our Mission Statement</h2>
+            <p>We are engaging and transforming the way HR is being utilized - At Dabar training, we listen and take what people are saying and helping them to achieve more and be better in an effective and efficient way.</p>
           </div>
    
           <div class="col-lg-3 cta-btn-container text-center">
             <a class="cta-btn align-middle" href="mailto:info@dabartraining.com">Contact us</a>
           </div>
         </div>
-
       </div>
     </section><!-- End Cta Section -->
 
