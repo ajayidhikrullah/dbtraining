@@ -40,7 +40,7 @@
 
     <!-- Uncomment below if you prefer to use an image logo -->
     <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/db_logo.jpg" width="" height="" alt="" class="img-fluid"></a> -->
-      <h1 class="logo me-auto"><a href="index.php" >Debar Training Limited</a></h1>
+      <h1 class="logo me-auto"><a href="index.php" >Dabar Training Limited</a></h1>
             
       
       <?php

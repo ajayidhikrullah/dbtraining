@@ -33,8 +33,8 @@
         </div>
 
         <div class="row">
-          <div class="col-lg-6">
-            <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
+          <div class="col-lg-6 mt-4 mt-lg-0">
+            <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="200">
               <div class="pic"><img src="https://res.cloudinary.com/www-nairaproducts-ng/image/upload/v1610463126/img_s6iaru.png" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Employee Central</h4>
@@ -49,7 +49,7 @@
           </div>
 
           <div class="col-lg-6 mt-4 mt-lg-0">
-            <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="200">
+            <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
               <div class="pic"><img src="https://res.cloudinary.com/www-nairaproducts-ng/image/upload/v1610463126/img_s6iaru.png" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>SAP SuccessFactors Onboarding</h4>
@@ -66,29 +66,81 @@
               </div>
             </div>
           </div>
+        </div>
 
-          <div class="col-lg-6 mt-4">
-            <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="300">
+        <div class="row">
+          <div class="col-lg-6 mt-4 mt-lg-0">
+            <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="200">
               <div class="pic"><img src="https://res.cloudinary.com/www-nairaproducts-ng/image/upload/v1610463126/img_s6iaru.png" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>SAP SuccessFactors Learning - LMS</h4>
+              <h4>SAP SuccessFactors Learning - LMS</h4>
                 <span>Discussion</span>
                 <p>Using SuccessFactors Learning, you can engage new hires from the start. It is important to provide enhanced learning and valuable content experience to the new and old hires to engage top talents from university.</p>
+                    <hr>
+                    <a href="learning.php" class="btn-learn-more">Read more...</a>
+              </div>
+            </div>
+          </div>
 
+          <div class="col-lg-6 mt-4 mt-lg-0">
+            <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
+              <div class="pic"><img src="https://res.cloudinary.com/www-nairaproducts-ng/image/upload/v1610463126/img_s6iaru.png" class="img-fluid" alt=""></div>
+              <div class="member-info">
+                <h4>SAP SuccessFactors Performance and Goals</h4>
+                <span>Discussion</span>
+                <p>Research shows that organizations who embrace performance & goals management improve their business results. Dabar trainers wants to take this a step further from the traditional view and enable your company to be forward looking, flexible and proactive in your business execution.</p>
+                <hr>
+                <a href="performance.php" class="btn-learn-more">Read more...</a>              
                 <!-- <div class="social">
                   <a href=""><i class="ri-twitter-fill"></i></a>
                   <a href=""><i class="ri-facebook-fill"></i></a>
                   <a href=""><i class="ri-instagram-fill"></i></a>
                   <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
                 </div> -->
-                <hr>
-                <a href="learning.php" class="btn-learn-more">Read more...</a>
-
               </div>
-
             </div>
           </div>
         </div>
+        
+
+        <div class="row">
+          <div class="col-lg-6 mt-4 mt-lg-0">
+            <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="200">
+              <div class="pic"><img src="https://res.cloudinary.com/www-nairaproducts-ng/image/upload/v1610463126/img_s6iaru.png" class="img-fluid" alt=""></div>
+              <div class="member-info">
+                <h4>Employee Central</h4>
+                <span>Discussion</span>
+                    <p><i>SuccessFactors Employee Central provides an option to manage key HR operations and contains HR master data like employee name, identification, user name, etc.</i><p>
+                    <p><em>* Employee Central Integration</em></p>
+                    <p><em>* Employee Central Payroll</em></p>
+                    <hr>
+                    <a href="employeecentral.php" class="btn-learn-more">Read more...</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-6 mt-4 mt-lg-0">
+            <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
+              <div class="pic"><img src="https://res.cloudinary.com/www-nairaproducts-ng/image/upload/v1610463126/img_s6iaru.png" class="img-fluid" alt=""></div>
+              <div class="member-info">
+                <h4>SAP SuccessFactors Onboarding</h4>
+                <span>Discussion</span>
+                <p>SAP SuccessFactors Onboarding helps people managers to align individual goals with the company business objectives and core values. It ensures that all the employees are working on same similar goals to achieve and eliminate gap and stay on the right path to achieve organization goals.</p>
+                <hr>
+                <a href="onboarding.php" class="btn-learn-more">Read more...</a>              
+                <!-- <div class="social">
+                  <a href=""><i class="ri-twitter-fill"></i></a>
+                  <a href=""><i class="ri-facebook-fill"></i></a>
+                  <a href=""><i class="ri-instagram-fill"></i></a>
+                  <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                </div> -->
+              </div>
+            </div>
+          </div>
+        </div>
+
+      
+
 
       </div>
     </section><!-- End Team Section -->
