@@ -1,4 +1,5 @@
 <?php
+session_start();
     class ContactUsContr extends ContactUs{
         private $fullName;
         private $email;
@@ -14,15 +15,14 @@
 
 
         public function contactError(){
-            if ($this->emptyInput() == false){
-                //echo 'empty input
-                header('Location: ../index.php?error=emptyinput');
+            if ($this->emptyInput()){
+                return true;
                 exit();
             }
 
             if($this->invalidEmail() == false){
                 //echo 'invalid email ooo';
-            header('Location: ../index.php?error=invalidEmail');
+            // header('Location: ../index.php?error=invalidEmail');
             }
 
             $this->setContact($this->fullName, $this->email, $this->subject, $this->message);
@@ -30,11 +30,8 @@
 
         //error handler to check for empty input
         private function emptyInput(){
-            $result;
+            $result = false;
             if(empty($this->fullName) || empty($this->email) || empty($this->subject) || empty($this->message)){
-                $result = false;
-            }
-            else{
                 $result = true;
             }
             return $result;
